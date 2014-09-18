@@ -46,7 +46,7 @@ function draw(){
 			}
 		}
 	}
-	fill(255,power,0);
+	fill(power,power-255,power-510);
 	noStroke();
 	rectMode(CENTER);
 	vibration();
